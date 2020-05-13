@@ -1,9 +1,5 @@
 # terraform-course
 
-# Compatibility
-
-* This is the >=terraform-0.12 branch. For compatibility with older versions, use the terraform-0.11 branch.
-
 # Demo overview
 Demo Directory | Description
 ------------ | -------------
