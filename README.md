@@ -1,6 +1,6 @@
 # terraform-course
 
-# Demo overview
+## Project overview
 Demo Directory | Description
 ------------ | -------------
 first-steps | First steps
